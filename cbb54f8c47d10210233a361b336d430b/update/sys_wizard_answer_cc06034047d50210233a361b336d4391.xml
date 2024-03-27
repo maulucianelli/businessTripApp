@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Business trip tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Business trip tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 22:11:15</sys_created_on>
+        <sys_id>cc06034047d50210233a361b336d4391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business trip tasks</sys_name>
+        <sys_package display_value="Business Trip App" source="x_967657_business">cbb54f8c47d10210233a361b336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Trip App">cbb54f8c47d10210233a361b336d430b</sys_scope>
+        <sys_update_name>sys_wizard_answer_cc06034047d50210233a361b336d4391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 22:11:15</sys_updated_on>
+        <table/>
+        <target_url>x_967657_business_business_trip_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
