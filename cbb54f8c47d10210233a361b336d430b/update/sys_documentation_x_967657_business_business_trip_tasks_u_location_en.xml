@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_location" label="Location" language="en" table="x_967657_business_business_trip_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_location</element>
+            <help/>
+            <hint/>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_967657_business_business_trip_tasks</name>
+            <plural>Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-03 22:26:05</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_package display_value="Business Trip App" source="x_967657_business">cbb54f8c47d10210233a361b336d430b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Trip App">cbb54f8c47d10210233a361b336d430b</sys_scope>
+            <sys_update_name>sys_documentation_x_967657_business_business_trip_tasks_u_location_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-03 22:26:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

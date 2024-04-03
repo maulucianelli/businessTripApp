@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Book Business trip">2d1bc71ac3d1021061f23e1d050131ab</catalog_item>
+        <catalog_variable>IO:eb4193d2c315021061f23e1d0501318e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message>Needs to be after stard date</field_message>
+        <field_message_type>info</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 22:48:59</sys_created_on>
+        <sys_id>96915316c315021061f23e1d05013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Business Trip App" source="x_967657_business">cbb54f8c47d10210233a361b336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Trip App">cbb54f8c47d10210233a361b336d430b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_96915316c315021061f23e1d05013154</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 22:48:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show end date">5e715fd2c315021061f23e1d050131ff</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>end_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=96915316c315021061f23e1d05013154"/>
+</record_update>

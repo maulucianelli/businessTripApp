@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="c806034047d50210233a361b336d438e" extends="task" label="Business trip tasks" max_length="40" name="x_967657_business_business_trip_tasks" type="collection"/>
+    <element db_object_id="c806034047d50210233a361b336d438e" extends="task" label="Business trip tasks" max_length="40" name="x_967657_business_business_trip_tasks" type="collection">
+        <element attributes="encode_utf8=false" label="Employee" mandatory="true" max_length="32" name="u_employee" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" mandatory="true" max_length="255" name="u_location" type="string_full_utf8"/>
+    </element>
 </database>

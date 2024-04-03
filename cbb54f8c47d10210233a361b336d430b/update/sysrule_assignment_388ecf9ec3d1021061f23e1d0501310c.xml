@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <description/>
+        <group display_value="Business Trip Group" name="Business Trip Group">6b9e43dec3d1021061f23e1d050131a2</group>
+        <match_conditions>ALL</match_conditions>
+        <name>Business Trip Group</name>
+        <order>100</order>
+        <script>/**&#13;
+* Example:&#13;
+* The following script requires personalizing the instance to add the Malware category and the Security assignment group.&#13;
+* if (current.category == "Hardware")&#13;
+*    current.assignment_group.setDisplayValue("Hardware"); &#13;
+* else if (current.category == "Software")&#13;
+*    current.assignment_group.setDisplayValue("Software");&#13;
+* else if (current.category == "Malware")&#13;
+*    current.assignment_group.setDisplayValue("Security");	&#13;
+*&#13;
+* Another Example:&#13;
+* Release Planning Example, which assigns the last person assigned to a release to the current release.&#13;
+* current.release.product.service.assigned_to;&#13;
+*/</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 22:35:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>388ecf9ec3d1021061f23e1d0501310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Trip Group</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Business Trip App" source="x_967657_business">cbb54f8c47d10210233a361b336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Trip App">cbb54f8c47d10210233a361b336d430b</sys_scope>
+        <sys_update_name>sysrule_assignment_388ecf9ec3d1021061f23e1d0501310c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 22:35:50</sys_updated_on>
+        <table>x_967657_business_business_trip_tasks</table>
+        <user/>
+    </sysrule_assignment>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Book Business trip">2d1bc71ac3d1021061f23e1d050131ab</sc_cat_item>
+        <sc_category display_value="Trip">084dc71ec3d1021061f23e1d0501310a</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 22:29:44</sys_created_on>
+        <sys_id>575d8b1ec3d1021061f23e1d05013149</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trip.Book Business trip</sys_name>
+        <sys_package display_value="Business Trip App" source="x_967657_business">cbb54f8c47d10210233a361b336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Trip App">cbb54f8c47d10210233a361b336d430b</sys_scope>
+        <sys_update_name>sc_cat_item_category_575d8b1ec3d1021061f23e1d05013149</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 22:29:44</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
